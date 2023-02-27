@@ -2,15 +2,18 @@
   "users":[
     {
       "name":"Angel",
-      "lastName":"Moreno"
+      "lastName":"Moreno",
+      "age": 25
     },
     {
       "name":"Edson",
-      "lastName":"Vital"
+      "lastName":"Vital",
+      "age": 24
     },
     {
       "name":"Alejandro",
-      "lastName":"Rosales"
+      "lastName":"Rosales",
+      "age": 25
     }
   ]
 }
